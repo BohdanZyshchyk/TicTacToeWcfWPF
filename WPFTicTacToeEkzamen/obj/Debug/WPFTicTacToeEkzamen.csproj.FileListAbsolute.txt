@@ -1,0 +1,14 @@
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\bin\Debug\WPFTicTacToeEkzamen.exe.config
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\bin\Debug\WPFTicTacToeEkzamen.exe
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\bin\Debug\WPFTicTacToeEkzamen.pdb
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\WPFTicTacToeEkzamen.csprojAssemblyReference.cache
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\MainWindow.g.cs
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\App.g.cs
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\WPFTicTacToeEkzamen_MarkupCompile.cache
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\WPFTicTacToeEkzamen_MarkupCompile.lref
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\MainWindow.baml
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\WPFTicTacToeEkzamen.g.resources
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\WPFTicTacToeEkzamen.Properties.Resources.resources
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\WPFTicTacToeEkzamen.csproj.GenerateResource.cache
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\WPFTicTacToeEkzamen.exe
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\WPFTicTacToeEkzamen\obj\Debug\WPFTicTacToeEkzamen.pdb

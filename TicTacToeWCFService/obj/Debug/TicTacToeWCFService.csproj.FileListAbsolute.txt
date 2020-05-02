@@ -1,0 +1,6 @@
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\TicTacToeWCFService\bin\Debug\TicTacToeWCFService.dll.config
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\TicTacToeWCFService\bin\Debug\TicTacToeWCFService.dll
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\TicTacToeWCFService\bin\Debug\TicTacToeWCFService.pdb
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\TicTacToeWCFService\obj\Debug\TicTacToeWCFService.csprojAssemblyReference.cache
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\TicTacToeWCFService\obj\Debug\TicTacToeWCFService.dll
+C:\Users\bohdan.zyshchuk\source\repos\WPFTicTacToeEkzamen\TicTacToeWCFService\obj\Debug\TicTacToeWCFService.pdb

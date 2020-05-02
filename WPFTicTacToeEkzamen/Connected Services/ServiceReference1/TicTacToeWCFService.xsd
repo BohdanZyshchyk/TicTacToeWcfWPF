@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/TicTacToeWCFService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/TicTacToeWCFService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="GameHelper">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Field" nillable="true" type="tns:ArrayOfCellType" />
+      <xs:element minOccurs="0" name="IsGameEnded" type="xs:boolean" />
+      <xs:element minOccurs="0" name="PlayersTurn" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="GameHelper" nillable="true" type="tns:GameHelper" />
+  <xs:complexType name="ArrayOfCellType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CellType" type="tns:CellType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCellType" nillable="true" type="tns:ArrayOfCellType" />
+  <xs:simpleType name="CellType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="EMPTY" />
+      <xs:enumeration value="HRESTIK" />
+      <xs:enumeration value="NOLIK" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="CellType" nillable="true" type="tns:CellType" />
+</xs:schema>
